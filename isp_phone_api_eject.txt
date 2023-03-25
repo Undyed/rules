@@ -10,6 +10,8 @@ host, www.cmpassport.com, reject
 host, wap.cmpassport.com, reject
 host, passport.migu.cn, reject
 host, migu.cn, reject
+host, ume.migu.cn, reject
+host, pssport.migu.cn, reject
 # 联通
 host, hmrz.wo.cn, reject
 host, nisjs1.10010.com, reject
