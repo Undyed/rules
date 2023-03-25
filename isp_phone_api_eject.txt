@@ -1,0 +1,24 @@
+# 屏蔽运营商手机号api,来源：https://softs.im/%E5%B1%8F%E8%94%BD%E8%BF%90%E8%90%A5%E5%95%86%E6%9C%AC%E6%9C%BA%E5%8F%B7%E7%A0%81%E8%87%AA%E5%8A%A8%E7%99%BB%E5%BD%95/
+# 电信
+host, id6.me, reject
+host, open.e.189.cn, reject
+host, e.189.cn, reject
+# 移动
+host, cmpassport.com, reject
+host, config.cmpassport.com, reject
+host, www.cmpassport.com, reject
+host, wap.cmpassport.com, reject
+host, passport.migu.cn, reject
+host, migu.cn, reject
+# 联通
+host, hmrz.wo.cn, reject
+host, nisjs1.10010.com, reject
+host, nisah1.10010.com, reject
+host, opencloud.wostore.cn, reject
+host, auth.wosms.cn, reject
+host, id.mail.wo.cn, reject
+host, mdn.open.wo.cn, reject
+host, hmrz.wo.cn, reject
+host, nishub1.10010.com, reject
+host, nisportal.10010.com, reject
+host, enrichgw.10010.com, reject
